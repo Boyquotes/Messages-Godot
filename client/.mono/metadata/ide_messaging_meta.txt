@@ -1,2 +1,0 @@
-﻿39685
-/home/josephy/Documentos/Universidad/tecnologias/Godot_v3.5.1-stable_mono_x11_64/Godot-mono
